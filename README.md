@@ -1,5 +1,7 @@
 # Urgency dataset in English, Odia and Sinhala
-"Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages" paper
+
+"Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages" paper to appear in [COLING 2020](https://coling2020.org/). 
+
 * English urgency [labels](https://app.box.com/s/vbk04ujt2jw9z01vssxxhxozpnbeb61k)
 * Odia labels
 * Sinhala labels
@@ -10,3 +12,4 @@
    * ProcB
    * VecMap
 -->
+* Corresponding tweets can be downloaded from [CrisisNLP](https://crisisnlp.qcri.org/lrec2016/lrec2016.html) website.
