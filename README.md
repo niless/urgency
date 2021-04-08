@@ -2,7 +2,7 @@
 
 [Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages](https://www.aclweb.org/anthology/2020.coling-main.414/) paper in proceedings of [COLING 2020](https://coling2020.org/). 
 
-![System Architecture](https://github.com/niless/urgency/blob/master/images/urgencyv2.pdf)
+![System Architecture](https://github.com/niless/urgency/blob/master/images/urgency.png)
 
 
 * English urgency [labels](https://app.box.com/s/vbk04ujt2jw9z01vssxxhxozpnbeb61k)
