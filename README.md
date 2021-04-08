@@ -1,4 +1,4 @@
-# Urgency dataset in English, Odia and Sinhala
+# Crisis Tweets with Urgency Labels in English, Odia and Sinhala
 
 [Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages](https://www.aclweb.org/anthology/2020.coling-main.414/) paper in proceedings of [COLING 2020](https://coling2020.org/). 
 
