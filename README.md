@@ -15,4 +15,6 @@
    * ProcB
    * VecMap
 -->
-* Corresponding tweets can be downloaded from [CrisisNLP](https://crisisnlp.qcri.org/data/lrec2016/labeled_cf/CrisisNLP_labeled_data_crowdflower_v2.zip) website.
+* Corresponding tweets can be downloaded from CrisisNLP website
+    * [Crowdflower](https://crisisnlp.qcri.org/data/lrec2016/labeled_cf/CrisisNLP_labeled_data_crowdflower.zip)
+    * [Volunteer](https://crisisnlp.qcri.org/data/lrec2016/labeled_aidr/CrisisNLP_volunteers_labeled_data.zip)
